@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me magarahesborn1@gmail.com
-- 😄 Pronouns: Me.
+- 😄 Pronouns: Mr
 - ⚡ Fun fact: The truth shall set you free!
 
 <!---
